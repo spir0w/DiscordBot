@@ -1,0 +1,29 @@
+{
+  "name": "spirowbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spirow",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg-static": "^4.2.7",
+    "fs": "0.0.1-security",
+    "images-scraper": "^6.0.1",
+    "op.gg-api": "^2.0.5-alpha",
+    "opgg-scraper": "^1.1.2",
+    "puppeteer": "^8.0.0",
+    "reconlx": "^1.1.2",
+    "twitch": "^4.4.6",
+    "twitch-auth": "^4.4.6",
+    "twitch-eventsub": "^4.4.6",
+    "weather-js": "^2.0.0",
+    "yt-search": "^2.5.2",
+    "ytdl-core": "^4.4.5"
+  }
+}
