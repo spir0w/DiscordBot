@@ -1,5 +1,6 @@
 # SpirowBot
 A Discord chatbot, created by Spirow
+
 Spirow Bot is a multi-purpose with lots of fun features to spice up your Discord server, from funny jokes to tic-tac-toe to Music, it does it all! 
 Hosted 24/7 so always available for your server, feel free to try it, I will accept feature requests as well.
 
